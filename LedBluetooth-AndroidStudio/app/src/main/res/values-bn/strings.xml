@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Info_text">ব্লুটুথের সাথে সংযোগ স্থাপন করার জন্য প্রথমে আপনার ডিভাইসটি যোগ করুন এবং Searchbutton- এ ক্লিক করুন.এটি সমস্ত উপলব্ধ জোড়া ডিভাইস দেখাবে। ডিভাইস সংযুক্ত করতে ক্লিক করুন।</string>
+    <string name="button_text">অনুসন্ধান করুন</string>
+    <string name="brightness_text">উজ্জ্বলতা</string>
+    <string name="disconnect">সংযোগ বিচ্ছিন্ন করুন</string>
+    <string name="led_off">LED বন্ধ করুন</string>
+    <string name="led_on">LED চালু করুন</string>
+</resources>

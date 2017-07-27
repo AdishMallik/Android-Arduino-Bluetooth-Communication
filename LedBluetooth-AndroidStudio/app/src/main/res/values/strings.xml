@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">LedBluetooth</string>
+    <string name="Info_text">To connect to bluetooth first pair your device and click on the Searchbutton.It will show all the available paired devices.Click on the device to connect.</string>
+    <string name="button_text">Search</string>
+    <string name="led_off">Turn Off LED</string>
+    <string name="led_on">Turn On LED</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="brightness_text">Brightness</string>
+</resources>
